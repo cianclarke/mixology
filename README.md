@@ -15,11 +15,11 @@ Stir, strain & serve in chilled martini glass.
 
 ##Whiskey Sour    
     
-    // TODO - convert this one to Oz
+    // TODO This recipe is for 2, all others are for 1. Convert.
      
-* 88ml whiskey
-* 1/4 cup lemon, 1/4 cup lime (60ml wa)
-* 1/3 cup sugar syrup
+* 2 1/2 oz whiskey
+* 2oz lemon, 2oz lime
+* 2 2/3 oz simple syrup
   
 **Optional Tweaks**  
 
@@ -30,6 +30,7 @@ Stir, strain & serve in chilled martini glass.
 _~Estragon Tapas, South End, Boston, MA_  
 
 * Replace lime juice with lemon => half cup lemon
+* Splash Amaretto
 * 1/2 oz peach shrub
 
 ===================================================
