@@ -64,3 +64,15 @@ Shake first sans-ice, then with. Finish with 3 drops Angostura into the foam, sw
 * 3/4oz lime juice
 * 1/2 oz Luxardo Maraschino
 * 1/2 oz Grapefruit Juice
+
+===================================================
+
+##The Aviator
+
+Works just fine sans-Crème De Violette too
+
+* 1 1/2 oz Gin
+* 1 tsp Crème De Violette
+* 1/2 oz Maraschino Liqueur
+* 3/4 oz lemon juice
+* 1/4 oz Simple syrup
