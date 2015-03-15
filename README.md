@@ -76,3 +76,16 @@ Works just fine sans-Crème De Violette too
 * 1/2 oz Maraschino Liqueur
 * 3/4 oz lemon juice
 * 1/4 oz Simple syrup
+
+===================================================
+
+##Martinez
+
+Precursor to the Martini from 1800s. (Maraschino makes this a martinez, sans is an old-school martini)
+Low-ABV alternative to Martini with similar stiffness.
+
+* 1 oz Gin
+* 2 oz sweet red vermouth 
+* 1/8 oz / smallest size pour Maraschino Liqueur
+* 2 dash orange bitters
+* Garnish with lemon peel twist
