@@ -89,3 +89,17 @@ Low-ABV alternative to Martini with similar stiffness.
 * 1/8 oz / smallest size pour Maraschino Liqueur
 * 2 dash orange bitters
 * Garnish with lemon peel twist
+
+===================================================
+
+##Smoke & Mirrors
+
+Fantastic cocktail originating from Back Bar, Union Square, Boston, MA.  
+The scotch rinse causes smoky aromatics to persist throughout the drink.
+
+* Rinse the glass with a peaty scotch
+* 3/4 oz Dewar's Scotch
+* 1/4 oz St Elizabeth Allspice Dram
+* 1/2 oz lime juice
+* 1 1/2 oz Gran Classico Bitters (or Campari - but the colour suffers) 
+* 1 Dash Angostura Bitters
