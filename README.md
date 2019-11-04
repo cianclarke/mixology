@@ -1,7 +1,7 @@
 # Mixology
 A collection of favorite cocktail recipes - some invented, some from local cocktail bars
 
-##Executive Martini
+## Executive Martini
 _~Roughly based on drink from Top of the Hub, Prudential Center, Boston, MA_ 
 
 * 2oz Gin - Oxley, Hendricks, Bombay Saphire[1] in a pinch
@@ -13,7 +13,7 @@ Stir, strain & serve in chilled martini glass.
 [1] Haters gonna hate
 
 
-##Whiskey Sour    
+## Whiskey Sour    
     
     // TODO This recipe is for 2, all others are for 1. Convert.
      
@@ -35,7 +35,7 @@ _~Estragon Tapas, South End, Boston, MA_
 
 ===================================================
 
-##Rarely Eagle
+## Rarely Eagle
 _~ Highland Kitchen, Somerville, MA_
 
 * 1 1/2 ounces Eagle Rare bourbon
@@ -47,7 +47,7 @@ _~ Highland Kitchen, Somerville, MA_
 
 ===================================================
 
-##Pisco Sour
+## Pisco Sour
 
 * 2oz Pisco
 * 1oz egg white
@@ -58,7 +58,7 @@ Shake first sans-ice, then with. Finish with 3 drops Angostura into the foam, sw
 
 ===================================================
 
-##Hemingway Daquiri
+## Hemingway Daquiri
 
 * 2oz white rum
 * 3/4oz lime juice
@@ -67,7 +67,7 @@ Shake first sans-ice, then with. Finish with 3 drops Angostura into the foam, sw
 
 ===================================================
 
-##The Aviator
+## The Aviator
 
 Works just fine sans-Crème De Violette too
 
@@ -79,7 +79,7 @@ Works just fine sans-Crème De Violette too
 
 ===================================================
 
-##Martinez
+## Martinez
 
 Precursor to the Martini from 1800s. (Maraschino makes this a martinez, sans is an old-school martini)
 Low-ABV alternative to Martini with similar stiffness.
@@ -92,7 +92,7 @@ Low-ABV alternative to Martini with similar stiffness.
 
 ===================================================
 
-##Smoke & Mirrors
+## Smoke & Mirrors
 
 Fantastic cocktail originating from Back Bar, Union Square, Boston, MA.  
 The scotch rinse causes smoky aromatics to persist throughout the drink.
